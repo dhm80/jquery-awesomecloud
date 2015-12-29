@@ -1,0 +1,22 @@
+{
+  "name": "jquery-awesomecloud",
+  "description": "Beautiful HTML5 canvas tagcloud build from simple HTML tags with jQuery",
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "javascript",
+    "js",
+    "awesomecloud",
+    "awesome cloud",
+    "tagcloud",
+    "tag cloud",
+    "tags",
+    "cloud"
+  ],
+  "main": [
+    "jquery.awesomeCloud-0.2.min.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
+}
