@@ -13,6 +13,11 @@
     "tags",
     "cloud"
   ],
+  "ignore": [
+    "/.*",
+    "index.html",
+    "readme.markdown"
+  ],
   "main": [
     "jquery.awesomeCloud-0.2.min.js"
   ],
